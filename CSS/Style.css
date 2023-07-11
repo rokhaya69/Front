@@ -175,111 +175,125 @@ font-size: 1.4rem;
     color: #721c99;
 }
 /*-------------------Entete------------------*/
+.bod{
+    margin: 1.5px;
+}
 .dra{
     height: 35px;
     width: 110px;
     margin-top: 10px;
-    margin-left: 10rem;
+    margin-left: 7rem;
 }
 .entete{
     display:inline-block;
     line-height: 0.5cm;
+    font-family: Tahoma;
 }
 .rep{
 text-align: left;
-margin-left: 8.3rem;
+margin-left: 5rem;
 font-size: medium;
 }
 .peup{
     color: #0f0f0f;
     font-size: x-small;
-    margin-left: 9rem;
+    margin-left: 6.5rem;
     line-height: 0.1cm;
 }
 .etoile{
     color: #0f0f0f;
-    margin-left: 12rem;
+    margin-left: 9rem;
     line-height: 0.05cm;
 }
 .minis{
     line-height: 0.5cm;
     font-size: medium;
-    margin-left: 4rem;
+    margin-left: 0.1rem;
 }
 .direc{
     line-height: 0.5cm;
     font-size: medium;
-    margin-left: 3rem;
+    margin-left: 0.05rem;
 }
 .titr{
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
-    font-family: Georgia;
+    font-family: Tahoma;
 }
 .design{
     text-align: left;
-    margin-left: 8rem;
+    margin-left: 2rem;
     text-decoration: underline;
     font-weight: bold;
-    font-family: Georgia;
+    font-family: Tahoma;
+    font-size: 12px;
 }
 .adress{
     color: #0f0f0f;
-    margin-left: 11rem;
-    font-family: Georgia;
-    font-size: large;
+    margin-left: 3rem;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+.t1{
+    border-collapse: collapse;
+    border:  2px   #0f0f0f;
+    display: inline-block;
+    width: 100%;
+}
+.t1 td{
+    
+    font-family: Tahoma;
+    font-size: 12px;
+    word-spacing: 0.5px;
 }
 .ftext{
     color: #0f0f0f;
     text-align: center;
-    margin-left: 11rem;
-    margin-right: 11rem;
-    font-family: Georgia;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-family: Tahoma;
+    font-size: 10px;
 }
 #tiret{
-    margin-left: 11rem;
-    margin-right: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }
 .prenom{
     color: #0f0f0f;
     font-weight: bold;
-    line-height: 0.01cm;
-    margin-left: 11rem;
-    font-family: Georgia;
-    font-size: large;
-}
+    font-family: Tahoma;
+    font-size: 12px;
+    padding: 0.8rem 0.8rem 0.8rem 4rem;
+
+ }
 .date{
     color: #0f0f0f;
     text-align: right;
-    margin-right: 9rem;
-    font-family: Georgia;
+   font-family: Tahoma;
 }
 .dage{
     color: #0f0f0f;
     text-align: right;
-    margin-right: 9rem;
-    font-family: Georgia;
+    font-family: Tahoma;
 }
 .sign{
     color: #0f0f0f;
     text-align: right;
-    margin-right: 15rem;
-    font-family: Georgia;
+    margin-right: 6rem;
+    font-family: Tahoma;
     font-size: small;
 }
 .pied{
     display:block;
-    font-family: Georgia;
+    font-family: Tahoma;
     
 }
 .vprenom{
     color: #0f0f0f;
-    text-align: right;
-    margin-right: 35rem;
-    margin-top: -1.7rem;
-    font-family: Georgia;
-    font-size: large;
+    padding: 0.8rem 0.8rem 0.8rem 4rem;
+    font-family: Tahoma;
+    font-size: 12px;
 }
 #des{
     text-align: left;
